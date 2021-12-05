@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Jayesh Shaw\Desktop\Dichik Dichik\EXP-6_VoltageSubstractor.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Dec 05 18:30:28 2021
+Total elapsed time: 0.087 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2165
+traniter = 2138
+tranpoints = 1070
+accept = 1064
+rejected = 6
+matrix size = 16
+fillins = 10
+solver = Normal
+Matrix Compiler1: 890 bytes object code size  1.4/0.2/[0.1]
+Matrix Compiler2: 1.51 KB object code size  0.2/0.2/[0.2]
+

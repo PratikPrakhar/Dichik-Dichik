@@ -1,0 +1,16 @@
+Name              :: Pratik Prakhar
+Departure Place   :: New Delhi
+Destination Place :: Kolkata
+Class             :: economy
+Booking Date      :: 25/01/2021
+Total Ticket      :: 2
+--------------------------------
+
+Name              :: jkd
+Departure Place   :: New Delhi
+Destination Place :: Patna
+Class             :: business
+Booking Date      :: 21 Jan
+Total Ticket      :: 2
+--------------------------------
+
